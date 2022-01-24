@@ -1,4 +1,4 @@
-![Header](/banner-github.png)
+![Header](/2.png)
 
 # Hi! 👋🏼 I'm Juanito. 
 
