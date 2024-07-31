@@ -2,25 +2,28 @@
 
 # Hi! 👋🏼 I'm Juanito. 
 
-###  I'm Frontend Developer and Web Designer. 
+### I love hackathons and entrepreneurship
 
-💪🏼 I'm currently studying to specialize in: **React.js**.
 
-💖 In my free time, I create **projects to practice my skills**.
- You can see them in me [Github](https://github.com/jjestrada2). 
- 
-👾 i love entrepreneurship and create useful stuff.
-
-🧙‍♂️ I live in the bay area CA. I love books. I love Naruto.
-
-🎉✨ Currently selling Websites in San Francisco.
+💪🏼 I'm currently studying Computer Science at San Francisco State University.  
+💖 In my free time, I create **projects to practice my skills**. You can see them on my [GitHub](https://github.com/jjestrada2).  
+🧙‍♂️ I live in the Bay Area, CA. I love books.  
+🎉✨ Currently running my startup in San Francisco.  
 
 
 
 ## 🚀 Projects: 
-I like to create personal projects for practice my skills.
+I like to create personal projects to practice my skills. Here are some of my recent projects:
 
 Last Projects:
+* https://github.com/jjestrada2/TeamUp
+* https://github.com/jjestrada2/FastlyAPI
+* https://github.com/jjestrada2/FileSystem
+* https://github.com/jjestrada2/EcommerceGet3DPrint
+* https://github.com/jjestrada2/Instagram-Clone
+* https://github.com/jjestrada2/YouTubeClone
+* https://github.com/jjestrada2/2DVideoGame
+* https://github.com/jjestrada2/pokedex
 
 
 ## 🎯 Some technologies I use:
