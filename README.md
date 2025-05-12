@@ -5,11 +5,10 @@
 ### I love hackathons and entrepreneurship
 
 
-💪🏼 I'm currently studying Computer Science at San Francisco State University.  
+  
 💖 In my free time, I create **projects to practice my skills**. You can see them on my [GitHub](https://github.com/jjestrada2).  
 🧙‍♂️ I live in the Bay Area, CA. I love books.  
-🎉✨ Currently running my startup in San Francisco.  
-
+🎉✨ Currently running my startup.
 
 
 ## 🚀 Projects: 
